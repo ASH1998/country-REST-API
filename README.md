@@ -11,7 +11,6 @@
 3. database.db is the name of the database.
 4. Templates is the directory that contains all the templates used in app.py
 5. Images is the directory that contains working images from the app.
-6. datag.pptx is the presentation file that is also attached in this mail.
 
 ### Images :
 ![homepage](https://github.com/ASH1998/country-REST-API/blob/master/Images/home.PNG)
